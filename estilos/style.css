@@ -141,7 +141,7 @@ h1{
     height: 440px;
     width: 370px;
     margin: 0 10px;
-    transition: transform 0.5s;
+    transition: transform 0.6s;
     transform: scale(1,1);
 }
 
